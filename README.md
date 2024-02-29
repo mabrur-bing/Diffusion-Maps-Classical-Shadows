@@ -26,6 +26,3 @@ After installation, launch Jupyter Notebook or JupyterLab, navigate to the clone
 
 For a detailed explanation of the concepts and methodologies employed in this analysis, please refer to our published research article. [ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.235141]
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
