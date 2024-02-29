@@ -1,6 +1,6 @@
-# Diffusion-Maps-Classical-Shadows
+# Diffusion Maps of Classical-Shadows
 
-This repository contains a Jupyter Notebook that explores the application of diffusion maps to classical shadows in quantum computing. Our work builds on the concept of classical shadows to efficiently chart phase diagrams of quantum systems by employing diffusion maps for dimensionality reduction and analysis.
+This repository contains a Jupyter Notebook that explores the application of diffusion maps to identify phases of a quantum system. Our work builds on the concept of classical shadows to efficiently chart phase diagrams of quantum systems by employing diffusion maps for dimensionality reduction and analysis.
 
 ## Getting Started
 
@@ -10,6 +10,11 @@ To run the notebook, ensure you have Python installed, along with Jupyter Notebo
 
 - Python 3.6+
 - Jupyter Notebook or JupyterLab
+
+### Dataset Access
+
+The datasets used in this notebook can be accessed [here](https://drive.google.com/drive/folders/1jsvE9UAAzyKSnfE5NouilOWl2kOrfUpV?usp=sharing). Ensure you have the necessary permissions to view or download the data.
+
 
 ### Installation
 
