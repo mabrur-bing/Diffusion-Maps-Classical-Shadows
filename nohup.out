@@ -1,0 +1,36 @@
+[I 02:57:05.344 NotebookApp] The port 8888 is already in use, trying another port.
+[I 02:57:05.345 NotebookApp] Serving notebooks from local directory: /home/sakib.mc1/mabrur/Diffusion-Maps-Classical-Shadows
+[I 02:57:05.345 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 02:57:05.345 NotebookApp] http://localhost:8889/?token=ed494b8cd95849ff3fb596dc14e92420642a34487492c6fb
+[I 02:57:05.345 NotebookApp]  or http://127.0.0.1:8889/?token=ed494b8cd95849ff3fb596dc14e92420642a34487492c6fb
+[I 02:57:05.345 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 02:57:05.348 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sakib.mc1/.local/share/jupyter/runtime/nbserver-1501606-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=ed494b8cd95849ff3fb596dc14e92420642a34487492c6fb
+     or http://127.0.0.1:8889/?token=ed494b8cd95849ff3fb596dc14e92420642a34487492c6fb
+[I 02:58:51.969 NotebookApp] 302 GET /?token=ed494b8cd95849ff3fb596dc14e92420642a34487492c6fb (127.0.0.1) 0.780000ms
+[W 02:58:57.235 NotebookApp] Notebook Diffusion_Map_on_Classical_Shadows (1).ipynb is not trusted
+[I 02:58:57.565 NotebookApp] Kernel started: c487d5df-878e-49ad-bf9b-e2670ae0e852, name: python3
+[W 02:58:57.588 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20240305025705 (127.0.0.1) 14.660000ms referer=http://localhost:8889/notebooks/Diffusion_Map_on_Classical_Shadows%20(1).ipynb
+[I 03:00:57.643 NotebookApp] Saving file at /Diffusion_Map_on_Classical_Shadows (1).ipynb
+[W 03:00:57.644 NotebookApp] Notebook Diffusion_Map_on_Classical_Shadows (1).ipynb is not trusted
+[I 03:06:51.931 NotebookApp] Saving file at /Diffusion_Map_on_Classical_Shadows (1).ipynb
+[W 03:06:51.931 NotebookApp] Notebook Diffusion_Map_on_Classical_Shadows (1).ipynb is not trusted
+[I 03:06:59.098 NotebookApp] Saving file at /Diffusion_Map_on_Classical_Shadows (1).ipynb
+[W 03:06:59.099 NotebookApp] Notebook Diffusion_Map_on_Classical_Shadows (1).ipynb is not trusted
+[I 03:08:57.680 NotebookApp] Saving file at /Diffusion_Map_on_Classical_Shadows (1).ipynb
+[W 03:08:57.681 NotebookApp] Notebook Diffusion_Map_on_Classical_Shadows (1).ipynb is not trusted
+[I 03:12:57.621 NotebookApp] Saving file at /Diffusion_Map_on_Classical_Shadows (1).ipynb
+[W 03:12:57.623 NotebookApp] Notebook Diffusion_Map_on_Classical_Shadows (1).ipynb is not trusted
+[I 03:14:58.515 NotebookApp] Saving file at /Diffusion_Map_on_Classical_Shadows (1).ipynb
+[W 03:14:58.516 NotebookApp] Notebook Diffusion_Map_on_Classical_Shadows (1).ipynb is not trusted
+[I 03:16:31.384 NotebookApp] Saving file at /Diffusion_Map_on_Classical_Shadows (1).ipynb
+[W 03:16:31.385 NotebookApp] Notebook Diffusion_Map_on_Classical_Shadows (1).ipynb is not trusted
+[I 03:16:35.624 NotebookApp] Starting buffering for c487d5df-878e-49ad-bf9b-e2670ae0e852:7bca8082585e437f9a2497713823662e
+[I 03:16:35.632 NotebookApp] Kernel shutdown: c487d5df-878e-49ad-bf9b-e2670ae0e852
+[I 03:16:38.452 NotebookApp] Shutting down on /api/shutdown request.
+[I 03:16:38.453 NotebookApp] Shutting down 0 kernels
+[I 03:16:38.453 NotebookApp] Shutting down 0 terminals
